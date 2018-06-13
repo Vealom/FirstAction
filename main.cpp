@@ -2,6 +2,12 @@
 
 using namespace std;
 
+template<typename T>
+void second(T t)
+{
+	cout << t << endl;
+}
+
 int main()
 {
 	setlocale(LC_ALL, "ru");
