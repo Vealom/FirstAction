@@ -4,5 +4,9 @@ using namespace std;
 
 int main()
 {
+<<<<<<< HEAD
+	cout << "Hello, World!";
+=======
 	cout << "damn it, it's cool!";
+>>>>>>> master
 }
